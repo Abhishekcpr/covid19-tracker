@@ -1,0 +1,26 @@
+
+body{
+    background-image: url('https://wallpaperaccess.com/full/233083.jpg');
+    background-size: cover;
+}
+.heading{
+   
+    font-family: 'Shantell Sans', cursive;
+    color : rgb(169, 180, 12) ;
+    text-align: center;
+    font-size: 52px;
+
+    
+}
+
+.content{
+    display: flex;
+    width: fit-content;
+    height: fit-content;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: auto;
+    border : 3px solid red ;
+    font-size: 20px;
+    background-color: burlywood;
+}
